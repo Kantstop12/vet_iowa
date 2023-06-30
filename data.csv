@@ -1,28 +1,28 @@
 Business Name,Phone Number,Address,City,State,Zip Code,Email,Website,Notes
-VA Central Iowa Health Care System,515-699-5999,3600 30th St, Des Moines,IA,50310.0,,https://www.va.gov/central-iowa-health-care/,
-Iowa City VA Health Care System,319-338-0581,601 US-6, Iowa City,IA,52246.0,,https://www.va.gov/iowa-city-health-care/,
-Des Moines Regional Office,515-323-7464,210 Walnut St.,Des Moines,IA,50309.0,,https://www.benefits.va.gov/desmoines/,Assists Veterans and family members with disability compensation Benefits and PACT Act Information.
-Community Resource and Referral Center - Cedar Rapids,,Cedar Rapids,,IA,,,https://www.va.gov/homeless/crrc.asp,Provides resources and referrals for veterans.
-Community Resource and Referral Center - Davenport,,Davenport,,IA,,,https://www.va.gov/homeless/crrc.asp,Provides resources and referrals for veterans.
-Community Resource and Referral Center - Des Moines,,Des Moines,,IA,,,https://www.va.gov/homeless/crrc.asp,Provides resources and referrals for veterans.
-Cedar Rapids Vet Center,,Cedar Rapids,,IA,,,https://www.va.gov/cedar-rapids-vet-center/,Offers a wide range of services to help veterans transition from military to civilian life.
-Sioux City Vet Center,,Sioux City,,IA,,,https://www.va.gov/sioux-city-vet-center/,Provides a broad spectrum of counseling
-Des Moines Vet Center,,West Des Moines,,IA,,,https://www.va.gov/des-moines-vet-center/,Helps veterans and their families through many of the major adjustments in lifestyle that often occur after a veteran returns from combat.
-Des Moines VA Regional Office,515-323-7464,210 Walnut St,515-323-7464,,,,https://www.benefits.va.gov/desmoines/,www.benefits.va.gov/desmoines/
-Cedar Rapids CBOC,319-378-6574,3500 Dalton Way,319-378-6574,,,,https://www.va.gov/iowa-city-health-care/locations/cedar-rapids-va-clinic/,
-Iowa City VA Medical Center,319-338-0581,1200 E. River Dr.,319-338-0581,,,,https://www.va.gov/iowa-city-health-care/,www.va.gov/IowaCity
-Iowa Workforce Development - Des Moines,515-281-9619,400 E. Locust St.,515-281-9619,,,,https://www.iowaworkforcedevelopment.gov/des-moines,www.iowaworkforcedevelopment.gov/des-moines
-Iowa Workforce Development - Cedar Rapids,319-364-3492,400 1st Ave. NE,319-364-3492,,,,https://www.iowaworkforcedevelopment.gov/cedar-rapids,www.iowaworkforcedevelopment.gov/cedar-rapids
-Iowa Workforce Development - Iowa City,319-338-4067,1200 E. River Dr.,319-338-4067,,,,https://www.iowaworkforcedevelopment.gov/iowa-city,www.iowaworkforcedevelopment.gov/iowa-city
-American Legion,(515) 282-1916,2200 Grand Ave, Des Moines,IA,50312.0,,http://www.legion.org/,
-Disabled American Veterans,(515) 323-7539,801 E Grand Ave, Des Moines,IA,50309.0,,https://www.dav.org/,
-Military Order of the Purple Heart,(515) 283-8380,1800 Grand Ave, Des Moines,IA,50312.0,,,
-Iowa Department Veterans Affairs,(515) 252-4698,2220 NE 10th St, Johnston,IA,50131.0,,,
-Quad City Veterans Outreach Center,(563) 529-4782,200 E 2nd St, Davenport,IA,52801.0,,,
-United States Department of Veterans Affairs,(800) 827-1000,8100 NW 10th St, Des Moines,IA,50322.0,,,
-Local Veterans Employment Representative (LVER),(515) 252-4698,2220 NE 10th St, Johnston,IA,50131.0,,,
-Disabled Veterans Outreach Program Specialist (DVOP),(515) 252-4698,2220 NE 10th St, Johnston,IA,50131.0,,,
-Quad Cities VA Clinic,563-332-8528,2826 West Locust Street, Davenport,IA,52804.0,,,
+VA Central Iowa Health Care System,515-699-5999,3600 30th St, Des Moines,IA,50310,,https://www.va.gov/central-iowa-health-care/,
+Iowa City VA Health Care System,319-338-0581,601 US-6, Iowa City,IA,52246,,https://www.va.gov/iowa-city-health-care/,
+Des Moines Regional Office,515-323-7464,210 Walnut St.,Des Moines,IA,50309,,https://www.benefits.va.gov/desmoines/,Assists Veterans and family members with disability compensation Benefits and PACT Act Information.
+Community Resource and Referral Center - Cedar Rapids,,,Cedar Rapids,IA,,,https://www.va.gov/homeless/crrc.asp,Provides resources and referrals for veterans.
+Community Resource and Referral Center - Davenport,,,Davenport,IA,,,https://www.va.gov/homeless/crrc.asp,Provides resources and referrals for veterans.
+Community Resource and Referral Center - Des Moines,,,Des Moines,IA,,,https://www.va.gov/homeless/crrc.asp,Provides resources and referrals for veterans.
+Cedar Rapids Vet Center,,,Cedar Rapids,IA,,,https://www.va.gov/cedar-rapids-vet-center/,Offers a wide range of services to help veterans transition from military to civilian life.
+Sioux City Vet Center,,,Sioux City,IA,,,https://www.va.gov/sioux-city-vet-center/,Provides a broad spectrum of counseling
+Des Moines Vet Center,,,West Des Moines,IA,,,https://www.va.gov/des-moines-vet-center/,Helps veterans and their families through many of the major adjustments in lifestyle that often occur after a veteran returns from combat.
+Des Moines VA Regional Office,515-323-7464,210 Walnut St,Des Moines,IA,,,https://www.benefits.va.gov/desmoines/,www.benefits.va.gov/desmoines/
+Cedar Rapids CBOC,319-378-6574,3500 Dalton Way,Cedar Rapids,IA,,,https://www.va.gov/iowa-city-health-care/locations/cedar-rapids-va-clinic/,
+Iowa City VA Medical Center,319-338-0581,1200 E. River Dr.,Iowa City,IA,,,https://www.va.gov/iowa-city-health-care/,www.va.gov/IowaCity
+Iowa Workforce Development - Des Moines,515-281-9619,400 E. Locust St.,Des Moines,IA,,,https://www.iowaworkforcedevelopment.gov/des-moines,www.iowaworkforcedevelopment.gov/des-moines
+Iowa Workforce Development - Cedar Rapids,319-364-3492,400 1st Ave. NE,Cedar Rapids,IA,,,https://www.iowaworkforcedevelopment.gov/cedar-rapids,www.iowaworkforcedevelopment.gov/cedar-rapids
+Iowa Workforce Development - Iowa City,319-338-4067,1200 E. River Dr.,Iowa City,IA,,,https://www.iowaworkforcedevelopment.gov/iowa-city,www.iowaworkforcedevelopment.gov/iowa-city
+American Legion,(515) 282-1916,2200 Grand Ave, Des Moines,IA,50312,,http://www.legion.org/,
+Disabled American Veterans,(515) 323-7539,801 E Grand Ave, Des Moines,IA,50309,,https://www.dav.org/,
+Military Order of the Purple Heart,(515) 283-8380,1800 Grand Ave, Des Moines,IA,50312,,,
+Iowa Department Veterans Affairs,(515) 252-4698,2220 NE 10th St, Johnston,IA,50131,,,
+Quad City Veterans Outreach Center,(563) 529-4782,200 E 2nd St, Davenport,IA,52801,,,
+United States Department of Veterans Affairs,(800) 827-1000,8100 NW 10th St, Des Moines,IA,50322,,,
+Local Veterans Employment Representative (LVER),(515) 252-4698,2220 NE 10th St, Johnston,IA,50131,,,
+Disabled Veterans Outreach Program Specialist (DVOP),(515) 252-4698,2220 NE 10th St, Johnston,IA,50131,,,
+Quad Cities VA Clinic,563-332-8528,2826 West Locust Street, Davenport,IA,52804,,,
 Drake Staffing & Search Groups,,3810 Ingersoll Ave, Des Moines, IA,,,https://www.yelp.com/biz/drake-staffing-and-search-groups-des-moines,No specific reviews or notes found.
 AppleOne,,2700 Westown Pkwy, West Des Moines, IA,,,https://www.yelp.com/biz/appleone-west-des-moines-2,Had a question about a product. Luke handled my question with great proficiency. Told me about the different features of said product. Also the features of a similar product.
 Pinnacle Staffing Group - Des Moines,,509 Elm St, Des Moines, IA,,,https://www.yelp.com/biz/pinnacle-staffing-group-des-moines-des-moines,No specific reviews or notes found.
